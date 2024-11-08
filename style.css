@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.Menu_1 {
+	display: flex;
+	flex-direction: column;
+	color: #fff;
+	align-items: center;
+	background-color: #24053e;
+}
+nav {
+    display: flex;
+    align-items: end;
+    padding: 50px 160px 0 160px;
+    gap: 881px;
+    background-color: #24053e;
+}
+.Tete{
+        
+}
